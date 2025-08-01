@@ -1,0 +1,1428 @@
+
+> ai-training-admin@0.1.0 start
+> react-scripts start
+
+(node:27163) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:27163) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+(node:27163) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Files successfully emitted, waiting for typecheck results...
+Issues checking in progress...
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 34:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:41:9
+TS2345: Argument of type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; maxParticipants: string; replayUrl: string; highlights: string[]; prizes: { rank: "gold" | "silver" | "bronze"; text: string; }[]; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'maxParticipants' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+    39 |         signupDeadline: new Date(event.signupDeadline).toISOString().slice(0, 16),
+    40 |         description: event.description || '',
+  > 41 |         maxParticipants: event.maxParticipants?.toString() || '',
+       |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    42 |         replayUrl: event.replayUrl || '',
+    43 |         highlights: [...(event.highlights || []), '', '', ''].slice(0, 3),
+    44 |         prizes: event.prizes || [
+
+ERROR in src/pages/EventEditPage.tsx:69:35
+TS2339: Property 'maxParticipants' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    67 |         signupDeadline: new Date(formData.signupDeadline).toISOString(),
+    68 |         description: formData.description,
+  > 69 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+       |                                   ^^^^^^^^^^^^^^^
+    70 |         replayUrl: formData.replayUrl,
+    71 |         highlights: formData.highlights.filter(h => h.trim()),
+    72 |         prizes: formData.prizes.filter(p => p.text.trim())
+
+ERROR in src/pages/EventEditPage.tsx:69:71
+TS2339: Property 'maxParticipants' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    67 |         signupDeadline: new Date(formData.signupDeadline).toISOString(),
+    68 |         description: formData.description,
+  > 69 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+       |                                                                       ^^^^^^^^^^^^^^^
+    70 |         replayUrl: formData.replayUrl,
+    71 |         highlights: formData.highlights.filter(h => h.trim()),
+    72 |         prizes: formData.prizes.filter(p => p.text.trim())
+
+ERROR in src/pages/EventEditPage.tsx:71:30
+TS2339: Property 'highlights' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    69 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+    70 |         replayUrl: formData.replayUrl,
+  > 71 |         highlights: formData.highlights.filter(h => h.trim()),
+       |                              ^^^^^^^^^^
+    72 |         prizes: formData.prizes.filter(p => p.text.trim())
+    73 |       };
+    74 |
+
+ERROR in src/pages/EventEditPage.tsx:71:48
+TS7006: Parameter 'h' implicitly has an 'any' type.
+    69 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+    70 |         replayUrl: formData.replayUrl,
+  > 71 |         highlights: formData.highlights.filter(h => h.trim()),
+       |                                                ^
+    72 |         prizes: formData.prizes.filter(p => p.text.trim())
+    73 |       };
+    74 |
+
+ERROR in src/pages/EventEditPage.tsx:72:26
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    70 |         replayUrl: formData.replayUrl,
+    71 |         highlights: formData.highlights.filter(h => h.trim()),
+  > 72 |         prizes: formData.prizes.filter(p => p.text.trim())
+       |                          ^^^^^^
+    73 |       };
+    74 |
+    75 |       if (isNew) {
+
+ERROR in src/pages/EventEditPage.tsx:72:40
+TS7006: Parameter 'p' implicitly has an 'any' type.
+    70 |         replayUrl: formData.replayUrl,
+    71 |         highlights: formData.highlights.filter(h => h.trim()),
+  > 72 |         prizes: formData.prizes.filter(p => p.text.trim())
+       |                                        ^
+    73 |       };
+    74 |
+    75 |       if (isNew) {
+
+ERROR in src/pages/EventEditPage.tsx:92:40
+TS2339: Property 'highlights' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    90 |
+    91 |   const updateHighlight = (index: number, value: string) => {
+  > 92 |     const newHighlights = [...formData.highlights];
+       |                                        ^^^^^^^^^^
+    93 |     newHighlights[index] = value;
+    94 |     setFormData({ ...formData, highlights: newHighlights });
+    95 |   };
+
+ERROR in src/pages/EventEditPage.tsx:94:32
+TS2345: Argument of type '{ highlights: any[]; title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'highlights' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+    92 |     const newHighlights = [...formData.highlights];
+    93 |     newHighlights[index] = value;
+  > 94 |     setFormData({ ...formData, highlights: newHighlights });
+       |                                ^^^^^^^^^^^^^^^^^^^^^^^^^
+    95 |   };
+    96 |
+    97 |   const updatePrize = (index: number, text: string) => {
+
+ERROR in src/pages/EventEditPage.tsx:98:36
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+     96 |
+     97 |   const updatePrize = (index: number, text: string) => {
+  >  98 |     const newPrizes = [...formData.prizes];
+        |                                    ^^^^^^
+     99 |     newPrizes[index].text = text;
+    100 |     setFormData({ ...formData, prizes: newPrizes });
+    101 |   };
+
+ERROR in src/pages/EventEditPage.tsx:100:32
+TS2345: Argument of type '{ prizes: any[]; title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'prizes' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+     98 |     const newPrizes = [...formData.prizes];
+     99 |     newPrizes[index].text = text;
+  > 100 |     setFormData({ ...formData, prizes: newPrizes });
+        |                                ^^^^^^^^^^^^^^^^^
+    101 |   };
+    102 |
+    103 |   if (isLoading) {
+
+ERROR in src/pages/EventEditPage.tsx:192:31
+TS2339: Property 'maxParticipants' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    190 |             <input
+    191 |               type="number"
+  > 192 |               value={formData.maxParticipants}
+        |                               ^^^^^^^^^^^^^^^
+    193 |               onChange={(e) => setFormData({ ...formData, maxParticipants: e.target.value })}
+    194 |               className="w-full px-3 py-2 border rounded-lg"
+    195 |               min="1"
+
+ERROR in src/pages/EventEditPage.tsx:193:59
+TS2345: Argument of type '{ maxParticipants: string; title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'maxParticipants' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+    191 |               type="number"
+    192 |               value={formData.maxParticipants}
+  > 193 |               onChange={(e) => setFormData({ ...formData, maxParticipants: e.target.value })}
+        |                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    194 |               className="w-full px-3 py-2 border rounded-lg"
+    195 |               min="1"
+    196 |             />
+
+ERROR in src/pages/EventEditPage.tsx:214:21
+TS2339: Property 'highlights' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    212 |         <div className="bg-white rounded-lg p-4 space-y-4">
+    213 |           <h2 className="font-medium text-gray-900 mb-3">活动亮点</h2>
+  > 214 |           {formData.highlights.map((highlight, index) => (
+        |                     ^^^^^^^^^^
+    215 |             <input
+    216 |               key={index}
+    217 |               type="text"
+
+ERROR in src/pages/EventEditPage.tsx:214:37
+TS7006: Parameter 'highlight' implicitly has an 'any' type.
+    212 |         <div className="bg-white rounded-lg p-4 space-y-4">
+    213 |           <h2 className="font-medium text-gray-900 mb-3">活动亮点</h2>
+  > 214 |           {formData.highlights.map((highlight, index) => (
+        |                                     ^^^^^^^^^
+    215 |             <input
+    216 |               key={index}
+    217 |               type="text"
+
+ERROR in src/pages/EventEditPage.tsx:214:48
+TS7006: Parameter 'index' implicitly has an 'any' type.
+    212 |         <div className="bg-white rounded-lg p-4 space-y-4">
+    213 |           <h2 className="font-medium text-gray-900 mb-3">活动亮点</h2>
+  > 214 |           {formData.highlights.map((highlight, index) => (
+        |                                                ^^^^^
+    215 |             <input
+    216 |               key={index}
+    217 |               type="text"
+
+ERROR in src/pages/EventEditPage.tsx:234:33
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    232 |               <input
+    233 |                 type="text"
+  > 234 |                 value={formData.prizes[0].text}
+        |                                 ^^^^^^
+    235 |                 onChange={(e) => updatePrize(0, e.target.value)}
+    236 |                 className="w-full px-3 py-2 border rounded-lg"
+    237 |                 placeholder="例如：10万元奖金 + 实习机会"
+
+ERROR in src/pages/EventEditPage.tsx:244:33
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    242 |               <input
+    243 |                 type="text"
+  > 244 |                 value={formData.prizes[1].text}
+        |                                 ^^^^^^
+    245 |                 onChange={(e) => updatePrize(1, e.target.value)}
+    246 |                 className="w-full px-3 py-2 border rounded-lg"
+    247 |                 placeholder="例如：5万元奖金"
+
+ERROR in src/pages/EventEditPage.tsx:254:33
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    252 |               <input
+    253 |                 type="text"
+  > 254 |                 value={formData.prizes[2].text}
+        |                                 ^^^^^^
+    255 |                 onChange={(e) => updatePrize(2, e.target.value)}
+    256 |                 className="w-full px-3 py-2 border rounded-lg"
+    257 |                 placeholder="例如：2万元奖金"
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:62:35
+TS2339: Property 'maxParticipants' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    60 |         signupDeadline: new Date(formData.signupDeadline).toISOString(),
+    61 |         description: formData.description,
+  > 62 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+       |                                   ^^^^^^^^^^^^^^^
+    63 |         replayUrl: formData.replayUrl,
+    64 |         highlights: formData.highlights.filter(h => h.trim()),
+    65 |         prizes: formData.prizes.filter(p => p.text.trim())
+
+ERROR in src/pages/EventEditPage.tsx:62:71
+TS2339: Property 'maxParticipants' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    60 |         signupDeadline: new Date(formData.signupDeadline).toISOString(),
+    61 |         description: formData.description,
+  > 62 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+       |                                                                       ^^^^^^^^^^^^^^^
+    63 |         replayUrl: formData.replayUrl,
+    64 |         highlights: formData.highlights.filter(h => h.trim()),
+    65 |         prizes: formData.prizes.filter(p => p.text.trim())
+
+ERROR in src/pages/EventEditPage.tsx:64:30
+TS2339: Property 'highlights' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    62 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+    63 |         replayUrl: formData.replayUrl,
+  > 64 |         highlights: formData.highlights.filter(h => h.trim()),
+       |                              ^^^^^^^^^^
+    65 |         prizes: formData.prizes.filter(p => p.text.trim())
+    66 |       };
+    67 |
+
+ERROR in src/pages/EventEditPage.tsx:64:48
+TS7006: Parameter 'h' implicitly has an 'any' type.
+    62 |         maxParticipants: formData.maxParticipants ? parseInt(formData.maxParticipants) : undefined,
+    63 |         replayUrl: formData.replayUrl,
+  > 64 |         highlights: formData.highlights.filter(h => h.trim()),
+       |                                                ^
+    65 |         prizes: formData.prizes.filter(p => p.text.trim())
+    66 |       };
+    67 |
+
+ERROR in src/pages/EventEditPage.tsx:65:26
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    63 |         replayUrl: formData.replayUrl,
+    64 |         highlights: formData.highlights.filter(h => h.trim()),
+  > 65 |         prizes: formData.prizes.filter(p => p.text.trim())
+       |                          ^^^^^^
+    66 |       };
+    67 |
+    68 |       if (isNew) {
+
+ERROR in src/pages/EventEditPage.tsx:65:40
+TS7006: Parameter 'p' implicitly has an 'any' type.
+    63 |         replayUrl: formData.replayUrl,
+    64 |         highlights: formData.highlights.filter(h => h.trim()),
+  > 65 |         prizes: formData.prizes.filter(p => p.text.trim())
+       |                                        ^
+    66 |       };
+    67 |
+    68 |       if (isNew) {
+
+ERROR in src/pages/EventEditPage.tsx:85:40
+TS2339: Property 'highlights' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    83 |
+    84 |   const updateHighlight = (index: number, value: string) => {
+  > 85 |     const newHighlights = [...formData.highlights];
+       |                                        ^^^^^^^^^^
+    86 |     newHighlights[index] = value;
+    87 |     setFormData({ ...formData, highlights: newHighlights });
+    88 |   };
+
+ERROR in src/pages/EventEditPage.tsx:87:32
+TS2345: Argument of type '{ highlights: any[]; title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'highlights' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+    85 |     const newHighlights = [...formData.highlights];
+    86 |     newHighlights[index] = value;
+  > 87 |     setFormData({ ...formData, highlights: newHighlights });
+       |                                ^^^^^^^^^^^^^^^^^^^^^^^^^
+    88 |   };
+    89 |
+    90 |   const updatePrize = (index: number, text: string) => {
+
+ERROR in src/pages/EventEditPage.tsx:91:36
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    89 |
+    90 |   const updatePrize = (index: number, text: string) => {
+  > 91 |     const newPrizes = [...formData.prizes];
+       |                                    ^^^^^^
+    92 |     newPrizes[index].text = text;
+    93 |     setFormData({ ...formData, prizes: newPrizes });
+    94 |   };
+
+ERROR in src/pages/EventEditPage.tsx:93:32
+TS2345: Argument of type '{ prizes: any[]; title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'prizes' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+    91 |     const newPrizes = [...formData.prizes];
+    92 |     newPrizes[index].text = text;
+  > 93 |     setFormData({ ...formData, prizes: newPrizes });
+       |                                ^^^^^^^^^^^^^^^^^
+    94 |   };
+    95 |
+    96 |   if (isLoading) {
+
+ERROR in src/pages/EventEditPage.tsx:185:31
+TS2339: Property 'maxParticipants' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    183 |             <input
+    184 |               type="number"
+  > 185 |               value={formData.maxParticipants}
+        |                               ^^^^^^^^^^^^^^^
+    186 |               onChange={(e) => setFormData({ ...formData, maxParticipants: e.target.value })}
+    187 |               className="w-full px-3 py-2 border rounded-lg"
+    188 |               min="1"
+
+ERROR in src/pages/EventEditPage.tsx:186:59
+TS2345: Argument of type '{ maxParticipants: string; title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+  Object literal may only specify known properties, and 'maxParticipants' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }>'.
+    184 |               type="number"
+    185 |               value={formData.maxParticipants}
+  > 186 |               onChange={(e) => setFormData({ ...formData, maxParticipants: e.target.value })}
+        |                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    187 |               className="w-full px-3 py-2 border rounded-lg"
+    188 |               min="1"
+    189 |             />
+
+ERROR in src/pages/EventEditPage.tsx:207:21
+TS2339: Property 'highlights' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    205 |         <div className="bg-white rounded-lg p-4 space-y-4">
+    206 |           <h2 className="font-medium text-gray-900 mb-3">活动亮点</h2>
+  > 207 |           {formData.highlights.map((highlight, index) => (
+        |                     ^^^^^^^^^^
+    208 |             <input
+    209 |               key={index}
+    210 |               type="text"
+
+ERROR in src/pages/EventEditPage.tsx:207:37
+TS7006: Parameter 'highlight' implicitly has an 'any' type.
+    205 |         <div className="bg-white rounded-lg p-4 space-y-4">
+    206 |           <h2 className="font-medium text-gray-900 mb-3">活动亮点</h2>
+  > 207 |           {formData.highlights.map((highlight, index) => (
+        |                                     ^^^^^^^^^
+    208 |             <input
+    209 |               key={index}
+    210 |               type="text"
+
+ERROR in src/pages/EventEditPage.tsx:207:48
+TS7006: Parameter 'index' implicitly has an 'any' type.
+    205 |         <div className="bg-white rounded-lg p-4 space-y-4">
+    206 |           <h2 className="font-medium text-gray-900 mb-3">活动亮点</h2>
+  > 207 |           {formData.highlights.map((highlight, index) => (
+        |                                                ^^^^^
+    208 |             <input
+    209 |               key={index}
+    210 |               type="text"
+
+ERROR in src/pages/EventEditPage.tsx:227:33
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    225 |               <input
+    226 |                 type="text"
+  > 227 |                 value={formData.prizes[0].text}
+        |                                 ^^^^^^
+    228 |                 onChange={(e) => updatePrize(0, e.target.value)}
+    229 |                 className="w-full px-3 py-2 border rounded-lg"
+    230 |                 placeholder="例如：10万元奖金 + 实习机会"
+
+ERROR in src/pages/EventEditPage.tsx:237:33
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    235 |               <input
+    236 |                 type="text"
+  > 237 |                 value={formData.prizes[1].text}
+        |                                 ^^^^^^
+    238 |                 onChange={(e) => updatePrize(1, e.target.value)}
+    239 |                 className="w-full px-3 py-2 border rounded-lg"
+    240 |                 placeholder="例如：5万元奖金"
+
+ERROR in src/pages/EventEditPage.tsx:247:33
+TS2339: Property 'prizes' does not exist on type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }'.
+    245 |               <input
+    246 |                 type="text"
+  > 247 |                 value={formData.prizes[2].text}
+        |                                 ^^^^^^
+    248 |                 onChange={(e) => updatePrize(2, e.target.value)}
+    249 |                 className="w-full px-3 py-2 border rounded-lg"
+    250 |                 placeholder="例如：2万元奖金"
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:66:27
+TS2345: Argument of type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'Omit<Event, "id" | "registeredCount">'.
+  Type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is missing the following properties from type 'Omit<Event, "id" | "registeredCount">': highlights, prizes
+    64 |
+    65 |       if (isNew) {
+  > 66 |         await createEvent(eventData);
+       |                           ^^^^^^^^^
+    67 |       } else if (id) {
+    68 |         await updateEvent(id, eventData);
+    69 |       }
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'Event' is defined but never used                                                                             @typescript-eslint/no-unused-vars
+  Line 27:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Files successfully emitted, waiting for typecheck results...
+Issues checking in progress...
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 26:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 26:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 26:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 26:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 20:10:  'imageFile' is assigned a value but never used                                                                @typescript-eslint/no-unused-vars
+  Line 20:21:  'setImageFile' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 21:10:  'imagePreview' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 21:24:  'setImagePreview' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+  Line 30:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 20:10:  'imageFile' is assigned a value but never used                                                                @typescript-eslint/no-unused-vars
+  Line 20:21:  'setImageFile' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 21:10:  'imagePreview' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 21:24:  'setImagePreview' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+  Line 30:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:38:19
+TS2345: Argument of type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+  Property 'bannerUrl' is missing in type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; }' but required in type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; bannerUrl: string; }'.
+    36 |     try {
+    37 |       const event = await getEventById(id);
+  > 38 |       setFormData({
+       |                   ^
+  > 39 |         title: event.title,
+       | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  > 40 |         startTime: new Date(event.startTime).toISOString().slice(0, 16),
+       | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  > 41 |         location: event.location,
+       | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  > 42 |         signupDeadline: new Date(event.signupDeadline).toISOString().slice(0, 16),
+       | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  > 43 |         description: event.description || '',
+       | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  > 44 |         replayUrl: event.replayUrl || ''
+       | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  > 45 |       });
+       | ^^^^^^^^
+    46 |     } catch (error) {
+    47 |       console.error('Failed to load event:', error);
+    48 |       alert('加载活动失败');
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 20:10:  'imageFile' is assigned a value but never used                                                                @typescript-eslint/no-unused-vars
+  Line 20:21:  'setImageFile' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 21:10:  'imagePreview' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 30:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 20:10:  'imageFile' is assigned a value but never used                                                                @typescript-eslint/no-unused-vars
+  Line 20:21:  'setImageFile' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 21:10:  'imagePreview' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 30:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 21:10:  'imagePreview' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 30:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 59:9:   'handleImageSelect' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 21:10:  'imagePreview' is assigned a value but never used                                                             @typescript-eslint/no-unused-vars
+  Line 30:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 59:9:   'handleImageSelect' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 30:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 30:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 30:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 30:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:41:9
+TS2345: Argument of type '{ title: string; startTime: string; location: string; signupDeadline: string; description: string; replayUrl: string; bannerUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+  Object literal may only specify known properties, and 'signupDeadline' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+    39 |         startTime: new Date(event.startTime).toISOString().slice(0, 16),
+    40 |         location: event.location,
+  > 41 |         signupDeadline: new Date(event.signupDeadline).toISOString().slice(0, 16),
+       |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    42 |         description: event.description || '',
+    43 |         replayUrl: event.replayUrl || '',
+    44 |         bannerUrl: event.bannerUrl || ''
+
+ERROR in src/pages/EventEditPage.tsx:115:43
+TS2339: Property 'signupDeadline' does not exist on type '{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }'.
+    113 |         startTime: new Date(formData.startTime).toISOString(),
+    114 |         location: formData.location,
+  > 115 |         signupDeadline: new Date(formData.signupDeadline).toISOString(),
+        |                                           ^^^^^^^^^^^^^^
+    116 |         description: formData.description,
+    117 |         replayUrl: formData.replayUrl,
+    118 |         bannerUrl: bannerUrl
+
+ERROR in src/pages/EventEditPage.tsx:206:31
+TS2339: Property 'signupDeadline' does not exist on type '{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }'.
+    204 |             <input
+    205 |               type="datetime-local"
+  > 206 |               value={formData.signupDeadline}
+        |                               ^^^^^^^^^^^^^^
+    207 |               onChange={(e) => setFormData({ ...formData, signupDeadline: e.target.value })}
+    208 |               className="w-full px-3 py-2 border rounded-lg"
+    209 |               required
+
+ERROR in src/pages/EventEditPage.tsx:207:59
+TS2345: Argument of type '{ signupDeadline: string; title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+  Object literal may only specify known properties, and 'signupDeadline' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+    205 |               type="datetime-local"
+    206 |               value={formData.signupDeadline}
+  > 207 |               onChange={(e) => setFormData({ ...formData, signupDeadline: e.target.value })}
+        |                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    208 |               className="w-full px-3 py-2 border rounded-lg"
+    209 |               required
+    210 |             />
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:114:43
+TS2339: Property 'signupDeadline' does not exist on type '{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }'.
+    112 |         startTime: new Date(formData.startTime).toISOString(),
+    113 |         location: formData.location,
+  > 114 |         signupDeadline: new Date(formData.signupDeadline).toISOString(),
+        |                                           ^^^^^^^^^^^^^^
+    115 |         description: formData.description,
+    116 |         replayUrl: formData.replayUrl,
+    117 |         bannerUrl: bannerUrl
+
+ERROR in src/pages/EventEditPage.tsx:205:31
+TS2339: Property 'signupDeadline' does not exist on type '{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }'.
+    203 |             <input
+    204 |               type="datetime-local"
+  > 205 |               value={formData.signupDeadline}
+        |                               ^^^^^^^^^^^^^^
+    206 |               onChange={(e) => setFormData({ ...formData, signupDeadline: e.target.value })}
+    207 |               className="w-full px-3 py-2 border rounded-lg"
+    208 |               required
+
+ERROR in src/pages/EventEditPage.tsx:206:59
+TS2345: Argument of type '{ signupDeadline: string; title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+  Object literal may only specify known properties, and 'signupDeadline' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+    204 |               type="datetime-local"
+    205 |               value={formData.signupDeadline}
+  > 206 |               onChange={(e) => setFormData({ ...formData, signupDeadline: e.target.value })}
+        |                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    207 |               className="w-full px-3 py-2 border rounded-lg"
+    208 |               required
+    209 |             />
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+ERROR in src/pages/EventEditPage.tsx:205:31
+TS2339: Property 'signupDeadline' does not exist on type '{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }'.
+    203 |             <input
+    204 |               type="datetime-local"
+  > 205 |               value={formData.signupDeadline}
+        |                               ^^^^^^^^^^^^^^
+    206 |               onChange={(e) => setFormData({ ...formData, signupDeadline: e.target.value })}
+    207 |               className="w-full px-3 py-2 border rounded-lg"
+    208 |               required
+
+ERROR in src/pages/EventEditPage.tsx:206:59
+TS2345: Argument of type '{ signupDeadline: string; title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }' is not assignable to parameter of type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+  Object literal may only specify known properties, and 'signupDeadline' does not exist in type 'SetStateAction<{ title: string; startTime: string; location: string; description: string; replayUrl: string; bannerUrl: string; }>'.
+    204 |               type="datetime-local"
+    205 |               value={formData.signupDeadline}
+  > 206 |               onChange={(e) => setFormData({ ...formData, signupDeadline: e.target.value })}
+        |                                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    207 |               className="w-full px-3 py-2 border rounded-lg"
+    208 |               required
+    209 |             />
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Proxy error: Could not proxy request /api/events from localhost:3002 to http://localhost:3001.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 29:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 31:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 31:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 31:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 31:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 32:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 32:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 32:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 32:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+Files successfully emitted, waiting for typecheck results...
+Issues checking in progress...
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'SurveyQuestion' is defined but never used                                                                    @typescript-eslint/no-unused-vars
+  Line 33:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 4:15:  'SurveyQuestion' is defined but never used                                                                    @typescript-eslint/no-unused-vars
+  Line 33:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 23:10:  'surveyQuestions' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+  Line 23:27:  'setSurveyQuestions' is assigned a value but never used                                                       @typescript-eslint/no-unused-vars
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 23:10:  'surveyQuestions' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+  Line 23:27:  'setSurveyQuestions' is assigned a value but never used                                                       @typescript-eslint/no-unused-vars
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 23:10:  'surveyQuestions' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 23:10:  'surveyQuestions' is assigned a value but never used                                                          @typescript-eslint/no-unused-vars
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 101:9:  'addSurveyQuestion' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 110:9:  'updateSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 116:9:  'removeSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 120:9:  'addQuestionOption' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 126:9:  'updateQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 132:9:  'removeQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 101:9:  'addSurveyQuestion' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 110:9:  'updateSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 116:9:  'removeSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 120:9:  'addQuestionOption' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 126:9:  'updateQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 132:9:  'removeQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 101:9:  'addSurveyQuestion' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 110:9:  'updateSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 116:9:  'removeSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 120:9:  'addQuestionOption' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 126:9:  'updateQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 132:9:  'removeQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 35:6:   React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  Line 101:9:  'addSurveyQuestion' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 110:9:  'updateSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 116:9:  'removeSurveyQuestion' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 120:9:  'addQuestionOption' is assigned a value but never used                                                        @typescript-eslint/no-unused-vars
+  Line 126:9:  'updateQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 132:9:  'removeQuestionOption' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
+Compiling...
+Compiled with warnings.
+
+[eslint] 
+src/pages/EventEditPage.tsx
+  Line 35:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in [eslint] 
+src/pages/EventEditPage.tsx
+  Line 35:6:  React Hook useEffect has a missing dependency: 'loadEvent'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src/pages/RegistrationListPage.tsx
+  Line 17:6:  React Hook useEffect has a missing dependency: 'loadData'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+webpack compiled with 1 warning
+No issues found.
