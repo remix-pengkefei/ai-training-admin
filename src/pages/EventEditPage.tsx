@@ -52,7 +52,7 @@ const EventEditPage: React.FC = () => {
       setSurveyQuestions(event.surveyQuestions || []);
       
       if (event.bannerUrl) {
-        setImagePreview(`http://localhost:3001${event.bannerUrl}`);
+        setImagePreview(`${event.bannerUrl}`);
       }
     } catch (error) {
       console.error('Failed to load event:', error);
@@ -81,7 +81,7 @@ const EventEditPage: React.FC = () => {
     formData.append('image', imageFile);
     
     try {
-      const response = await fetch('http://localhost:3001/api/upload', {
+      const response = await fetch('/api/upload', {
         method: 'POST',
         body: formData
       });

@@ -3,7 +3,7 @@ import type { Event, Registration } from '../types';
 // 根据环境选择API基础URL
 const API_BASE_URL = process.env.NODE_ENV === 'development' 
   ? '/api'  // 开发环境使用代理
-  : 'http://localhost:3001/api';  // 生产环境直接调用后端
+  : '/api';  // 生产环境通过Nginx代理
 
 // 获取所有活动
 export const getEvents = async (): Promise<Event[]> => {
